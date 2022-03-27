@@ -1,1 +1,3 @@
-github 실험파일
+a = github 실험파일
+
+print(a)
